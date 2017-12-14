@@ -24,7 +24,7 @@ public class connectFour extends JFrame implements ActionListener {
   }
   
   
-  
+  // Action Preformed Method
   public void actionPerformed(ActionEvent event)
   {
     
