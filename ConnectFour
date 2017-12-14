@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class connectFour extends JFrame implements ActionListener {
   
-  public connectFour() // the CONSTRUCTOR..... GUI Frame object is created here built HERE!
+  public connectFour() // the CONSTRUCTOR
   {
     
     
@@ -34,6 +34,10 @@ public class connectFour extends JFrame implements ActionListener {
     
   }
   
+  public static int [] gameBoard(int [] gameBoardArray) {
+
+    return gameBoardArray;
+  }
   
   public static void main(String[] args)throws Exception {
     
