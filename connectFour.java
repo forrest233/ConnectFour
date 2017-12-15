@@ -1,7 +1,7 @@
 /**
  * Connect Four Java
  * GUI version of Connect Four
- * Zaid Omar
+ * Zaid Omer
  * Forrest Yuan
  * Dec. 18, 2017
  */
